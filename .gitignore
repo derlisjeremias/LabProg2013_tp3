@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+TestS/Money
+TestS/derby.log
