@@ -5,5 +5,5 @@ Trabajo practico N3
 
 Ver ejemplo en el repositorio, el proyecto TestS, la clase TestJpa testea altas bajas y modificaciones a usuarios y sus monedas.
 
-2 - Implemente la persistencia y un ABM para todas las clases del uml de una aerolínea que se encuentra en el repositorio con el nombre Flights.png .
+2 - Implemente la persistencia y el ABM para todas las clases del uml, de una aerolínea, que se encuentra en el repositorio con el nombre Flights.png .
 
